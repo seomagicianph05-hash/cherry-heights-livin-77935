@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seomagicianph05-hash.github.io/cherry-heights-livin-77935/sitemap.xml
+Sitemap: https://cherry-heights-livin-77935.pages.dev/sitemap.xml
